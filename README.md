@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
