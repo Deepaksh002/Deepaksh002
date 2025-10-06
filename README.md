@@ -2,12 +2,12 @@
 ![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Coding" width="350" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB3cDduNDJ6dWVsY3pydW5wZml1eGEyZGM2ZWJyY20zenhyam95diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RishabhSoni01&label=Profile%20views&color=0e75b6&style=flat" alt="RishabhSoni01" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently learning **Data Science **
 
 - 💬 Ask me about **my favourite movie**
 
